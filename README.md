@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! I’m **Ramez Shatra**, a passionate **Medical Electronic Engineer** currently honing my software programming skills at **42 School**. My journey into the world of programming has been exciting, and I'm eager to expand my expertise.
+Hello! I’m **Ramez Shatra**, a **Medical Electronic Engineer** currently honing my software programming skills at **42 School**. My journey into the world of programming has been exciting, and I'm eager to expand my expertise.
 
 ## Skills
 
